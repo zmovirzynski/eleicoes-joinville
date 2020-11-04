@@ -10,7 +10,7 @@
     "SG_UF": "SC",
     "SG_UE": 81795,
     "NM_UE": "JOINVILLE",
-    "SQ_CANDIDATO": "2,40001E+11",
+    "SQ_CANDIDATO": 240001031713,
     "DS_MOTIVO_CASSACAO": "Ausência de requisito de registro"
   },
   {
@@ -24,7 +24,7 @@
     "SG_UF": "SC",
     "SG_UE": 81795,
     "NM_UE": "JOINVILLE",
-    "SQ_CANDIDATO": "2,40001E+11",
+    "SQ_CANDIDATO": 240001031694,
     "DS_MOTIVO_CASSACAO": "Ausência de requisito de registro"
   },
   {
@@ -38,7 +38,7 @@
     "SG_UF": "SC",
     "SG_UE": 81795,
     "NM_UE": "JOINVILLE",
-    "SQ_CANDIDATO": "2,40001E+11",
+    "SQ_CANDIDATO": 240001175000,
     "DS_MOTIVO_CASSACAO": "Ausência de requisito de registro"
   },
   {
@@ -52,7 +52,7 @@
     "SG_UF": "SC",
     "SG_UE": 81795,
     "NM_UE": "JOINVILLE",
-    "SQ_CANDIDATO": "2,40001E+11",
+    "SQ_CANDIDATO": 240001173156,
     "DS_MOTIVO_CASSACAO": "Ausência de requisito de registro"
   },
   {
@@ -66,7 +66,7 @@
     "SG_UF": "SC",
     "SG_UE": 81795,
     "NM_UE": "JOINVILLE",
-    "SQ_CANDIDATO": "2,40001E+11",
+    "SQ_CANDIDATO": 240000876507,
     "DS_MOTIVO_CASSACAO": "Ausência de requisito de registro"
   },
   {
@@ -80,7 +80,7 @@
     "SG_UF": "SC",
     "SG_UE": 81795,
     "NM_UE": "JOINVILLE",
-    "SQ_CANDIDATO": "2,40001E+11",
+    "SQ_CANDIDATO": 240001175016,
     "DS_MOTIVO_CASSACAO": "Ausência de requisito de registro"
   },
   {
@@ -94,7 +94,7 @@
     "SG_UF": "SC",
     "SG_UE": 81795,
     "NM_UE": "JOINVILLE",
-    "SQ_CANDIDATO": "2,40001E+11",
+    "SQ_CANDIDATO": 240000845726,
     "DS_MOTIVO_CASSACAO": "Ausência de requisito de registro"
   },
   {
@@ -108,21 +108,7 @@
     "SG_UF": "SC",
     "SG_UE": 81795,
     "NM_UE": "JOINVILLE",
-    "SQ_CANDIDATO": "2,40001E+11",
-    "DS_MOTIVO_CASSACAO": "Ausência de requisito de registro"
-  },
-  {
-    "DT_GERACAO": "03/11/2020",
-    "HH_GERACAO": "21:08:43",
-    "ANO_ELEICAO": 2020,
-    "CD_TIPO_ELEICAO": 2,
-    "NM_TIPO_ELEICAO": "Eleição Ordinária",
-    "CD_ELEICAO": 426,
-    "DS_ELEICAO": "Eleições Municipais 2020",
-    "SG_UF": "SC",
-    "SG_UE": 81795,
-    "NM_UE": "JOINVILLE",
-    "SQ_CANDIDATO": "2,40001E+11",
+    "SQ_CANDIDATO": 240000792645,
     "DS_MOTIVO_CASSACAO": "Ausência de requisito de registro"
   }
 ]
