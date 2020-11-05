@@ -10,6 +10,7 @@ Candidatos Reeleição: https://www.nsctotal.com.br/noticias/eleicoes-2020-em-jo
 
 CAMPO           | Status
 --------------- | -------------------------------------------------------------
+RECEBE_AUXILIO  | Informa se o cliente solicitou Auxílio Emergêncial
 NUMERO_MANDATOS | Quantos mandatos o candidato possui
 OCUPAVA_CARGO   | Informa se ocupava cargo político antes dessa eleição
 MANDATO         | Informa quantos mandatos e se foi eleito ou ganhou o cargo
