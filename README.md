@@ -4,3 +4,9 @@ JSon's com informações de candidatos a vereadores e prefeitos da cidade de Joi
 Portal transparência, beneficiários do auxílio: http://www.portaldatransparencia.gov.br/beneficios/consulta?ordenarPor=mesAno&direcao=desc
 
 Candidaturas Indeferidas NSCTotal: https://www.nsctotal.com.br/noticias/eleicoes-2020-em-joinville-candidatos-vereador-indeferidos
+
+CAMPO           | Status
+--------------- | -------------------------------------------------------------
+NUMERO_MANDATOS | Quantos mandatos o candidato possui
+OCUPAVA_CARGO   | Informa se ocupava cargo político antes dessa eleição
+MANDATO         | Informa quantos mandatos e se foi eleito ou ganhou o cargo
