@@ -5,6 +5,9 @@ Portal transparência, beneficiários do auxílio: http://www.portaldatransparen
 
 Candidaturas Indeferidas NSCTotal: https://www.nsctotal.com.br/noticias/eleicoes-2020-em-joinville-candidatos-vereador-indeferidos
 
+Candidatos Reeleição: https://www.nsctotal.com.br/noticias/eleicoes-2020-em-joinville-candidatos-vereadores-reeleicao
+
+
 CAMPO           | Status
 --------------- | -------------------------------------------------------------
 NUMERO_MANDATOS | Quantos mandatos o candidato possui
