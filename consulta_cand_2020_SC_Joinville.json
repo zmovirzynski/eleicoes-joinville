@@ -1694,7 +1694,10 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "SIM"
+    "ST_CANDIDATO_INSERIDO_URNA": "SIM",
+    "NUMERO_MANDATOS": 1,
+    "OCUPAVA_CARGO": "SIM",
+    "MANDATO": "Eleito pelo PL, stá no primeiro mandato"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -2347,7 +2350,10 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "SIM"
+    "ST_CANDIDATO_INSERIDO_URNA": "SIM",
+    "NUMERO_MANDATOS": 2,
+    "OCUPAVA_CARGO": "SIM",
+    "MANDATO": "Está no segundo mandato"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -2478,7 +2484,8 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "NÃO"
+    "ST_CANDIDATO_INSERIDO_URNA": "NÃO",
+    "MOTIVO_INDEFERIDO": "Não se filiou ao partido até 4 de abril"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -3849,7 +3856,8 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "NÃO"
+    "ST_CANDIDATO_INSERIDO_URNA": "NÃO",
+    "MOTIVO_INDEFERIDO": "Não comprovou conhecimento mínimo e rudimentar de saber ler e escrever."
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -4766,7 +4774,8 @@
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
     "ST_CANDIDATO_INSERIDO_URNA": "SIM",
-    "RECEBE_AUXILIO": "SIM"
+    "RECEBE_AUXILIO": "SIM",
+    "MOTIVO_INDEFERIDO": "Requerimento de filiação partidária foi cancelado"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -4831,7 +4840,10 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "SIM"
+    "ST_CANDIDATO_INSERIDO_URNA": "SIM",
+    "NUMERO_MANDATOS": 2,
+    "OCUPAVA_CARGO": "SIM",
+    "MANDATO": "Está no segundo mandato"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -5745,7 +5757,8 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "NÃO"
+    "ST_CANDIDATO_INSERIDO_URNA": "NÃO",
+    "MOTIVO_INDEFERIDO": "Irregularidades na documentação apresentada, o partido requereu a inelegebilidade"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -10184,7 +10197,10 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "SIM"
+    "ST_CANDIDATO_INSERIDO_URNA": "SIM",
+    "NUMERO_MANDATOS": 2,
+    "OCUPAVA_CARGO": "SIM",
+    "MANDATO": "Está no segundo mandato"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -11162,7 +11178,10 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "SIM"
+    "ST_CANDIDATO_INSERIDO_URNA": "SIM",
+    "NUMERO_MANDATOS": 2,
+    "OCUPAVA_CARGO": "SIM",
+    "MANDATO": "Está no segundo mandato"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -12400,7 +12419,10 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "SIM"
+    "ST_CANDIDATO_INSERIDO_URNA": "SIM",
+    "NUMERO_MANDATOS": 1,
+    "OCUPAVA_CARGO": "SIM",
+    "MANDATO": "Eleita pelo SD, está no primeiro mandato."
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -15266,7 +15288,8 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "SIM"
+    "ST_CANDIDATO_INSERIDO_URNA": "SIM",
+    "MOTIVO_INDEFERIDO": "Não se filiou ao partido até 4 de abril"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -15331,7 +15354,10 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "SIM"
+    "ST_CANDIDATO_INSERIDO_URNA": "SIM",
+    "NUMERO_MANDATOS": 1,
+    "OCUPAVA_CARGO": "SIM",
+    "MANDATO": "Está no primeiro mandato"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -18793,7 +18819,10 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "SIM"
+    "ST_CANDIDATO_INSERIDO_URNA": "SIM",
+    "NUMERO_MANDATOS": 1,
+    "OCUPAVA_CARGO": "SIM",
+    "MANDATO": "Eleita pelo Pros, está no primeiro mandato"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -19836,7 +19865,10 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "SIM"
+    "ST_CANDIDATO_INSERIDO_URNA": "SIM",
+    "NUMERO_MANDATOS": 1,
+    "OCUPAVA_CARGO": "SIM",
+    "MANDATO": "Suplente pelo PSB, assumiu como vereadora após a saída de Rodrigo Coelho para a Câmara de Deputados, em 2018"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -28904,7 +28936,10 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "SIM"
+    "ST_CANDIDATO_INSERIDO_URNA": "SIM",
+    "NUMERO_MANDATOS": 6,
+    "OCUPAVA_CARGO": "SIM",
+    "MANDATO": "Está no sexto mandato"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -29491,7 +29526,8 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "NÃO"
+    "ST_CANDIDATO_INSERIDO_URNA": "NÃO",
+    "MOTIVO_INDEFERIDO": "Não apresentou certidão criminal"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -29621,7 +29657,8 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "SIM"
+    "ST_CANDIDATO_INSERIDO_URNA": "SIM",
+    "MOTIVO_INDEFERIDO": "Não comprovou filiação partidária"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -29816,7 +29853,10 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "SIM"
+    "ST_CANDIDATO_INSERIDO_URNA": "SIM",
+    "NUMERO_MANDATOS": 1,
+    "OCUPAVA_CARGO": "SIM",
+    "MANDATO": "Eleito pelo PSDB, está no primeiro mandato"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -30076,7 +30116,10 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "SIM"
+    "ST_CANDIDATO_INSERIDO_URNA": "SIM",
+    "NUMERO_MANDATOS": 1,
+    "OCUPAVA_CARGO": "SIM",
+    "MANDATO": "Eleito pelo PSB, está no primeiro mandato"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -30994,7 +31037,10 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "SIM"
+    "ST_CANDIDATO_INSERIDO_URNA": "SIM",
+    "NUMERO_MANDATOS": 1,
+    "OCUPAVA_CARGO": "SIM",
+    "MANDATO": "Está no segundo mandato como vereador e concorre a prefeito em 2020"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -32494,7 +32540,10 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "SIM"
+    "ST_CANDIDATO_INSERIDO_URNA": "SIM",
+    "NUMERO_MANDATOS": 1,
+    "OCUPAVA_CARGO": "SIM",
+    "MANDATO": "Eleito pelo MDB, está no segundo mandato e concorre a vice-prefeito neste ano"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -33016,7 +33065,8 @@
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
     "ST_CANDIDATO_INSERIDO_URNA": "SIM",
-    "RECEBE_AUXILIO": "SIM"
+    "RECEBE_AUXILIO": "SIM",
+    "MOTIVO_INDEFERIDO": "Não apresentou ata da convenção partidária"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -34255,7 +34305,10 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "SIM"
+    "ST_CANDIDATO_INSERIDO_URNA": "SIM",
+    "NUMERO_MANDATOS": 1,
+    "OCUPAVA_CARGO": "SIM",
+    "MANDATO": "Está no primeiro mandato"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -34909,7 +34962,10 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "SIM"
+    "ST_CANDIDATO_INSERIDO_URNA": "SIM",
+    "NUMERO_MANDATOS": 1,
+    "OCUPAVA_CARGO": "SIM",
+    "MANDATO": "Eleito pelo SD, está no primeiro mandato"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -35039,7 +35095,10 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "SIM"
+    "ST_CANDIDATO_INSERIDO_URNA": "SIM",
+    "NUMERO_MANDATOS": 1,
+    "OCUPAVA_CARGO": "SIM",
+    "MANDATO": "Suplente pelo MDB, assumiu como vereador após a saída de Fernando Krelling para a Assembleia Legislativa, em 2018"
   },
   {
     "DT_GERACAO": "03/11/2020",
@@ -35691,7 +35750,8 @@
     "DS_SITUACAO_CANDIDATO_PLEITO": "#NULO#",
     "CD_SITUACAO_CANDIDATO_URNA": -1,
     "DS_SITUACAO_CANDIDATO_URNA": "#NULO#",
-    "ST_CANDIDATO_INSERIDO_URNA": "NÃO"
+    "ST_CANDIDATO_INSERIDO_URNA": "NÃO",
+    "MOTIVO_INDEFERIDO": "Não se filiou ao partido até 4 de abril"
   },
   {
     "DT_GERACAO": "03/11/2020",
